@@ -5,9 +5,6 @@ import org.osgi.framework.BundleActivator;
 import org.osgi.framework.BundleContext;
 import org.osgi.framework.ServiceReference;
 
-/**
- * Created by Дарья on 15.03.2019.
- */
 public class HelloWorldActivator implements BundleActivator {
     private HelloWorldConsumer consumer;
 

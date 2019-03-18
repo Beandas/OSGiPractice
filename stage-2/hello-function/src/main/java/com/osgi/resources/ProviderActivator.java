@@ -5,9 +5,6 @@ import org.osgi.framework.BundleActivator;
 import org.osgi.framework.BundleContext;
 import org.osgi.framework.ServiceRegistration;
 
-/**
- * Created by Дарья on 02.03.2019.
- */
 public class ProviderActivator implements BundleActivator {
     private ServiceRegistration registration;
 

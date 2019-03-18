@@ -7,9 +7,6 @@ import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-/**
- * Created by Дарья on 15.03.2019.
- */
 public class HelloWorldConsumer implements ActionListener {
     private final HelloWorldService service;
     private final Timer timer;
